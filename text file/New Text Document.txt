@@ -1,0 +1,6 @@
+Sign in to your GitHub Enterprise instance and GitHub.com.
+In the upper-right corner of any page, click .
+In the left sidebar, click Business.
+Under your business account's name, click Settings.
+In the left sidebar, click GitHub Connect.
+Under "GitHub.com connection", click Connect to GitHub.com.
