@@ -6,4 +6,8 @@ In the left sidebar, click GitHub Connect.
 Under "GitHub.com connection", click Connect to GitHub.com.
 1)your business account's name, click Settings.
 In the left sidebar, click GitHub Connect.
+<<<<<<< HEAD
 2)upper-right corner of any page, click.
+=======
+left sidebar, click Business.new line
+>>>>>>> 2dec1bf223d5490fd329adc376e3a6bf31b57143
