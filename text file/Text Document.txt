@@ -15,7 +15,13 @@ left sidebar, click Business.new line
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Adding new line for the first commit
+=======
+
+adding second commit 
+
+>>>>>>> 0e761ab... second commit
 =======
 
 adding second commit 
