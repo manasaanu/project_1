@@ -11,3 +11,7 @@ In the left sidebar, click GitHub Connect.
 =======
 left sidebar, click Business.new line
 >>>>>>> 2dec1bf223d5490fd329adc376e3a6bf31b57143
+
+
+
+Adding new line for the first commit
